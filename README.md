@@ -20,4 +20,5 @@ Example:
 # Alex
 
 Full disclosure.  The -e option using 'rev' is all mine.
+
 The -H option using awk wask constructed with a little help from Google and Stackoverflow  😉
