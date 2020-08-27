@@ -16,3 +16,8 @@ Parameter must be followed by <string>
 
 Example:
 ./revSort.sh -H ReverseMe
+
+# Alex
+
+Full disclosure.  The -e option using 'rev' is all mine.
+The -H option using awk wask constructed with a little help from Google and Stackoverflow  😉
