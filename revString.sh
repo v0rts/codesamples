@@ -60,6 +60,12 @@ while getopts ':he:H:' option; do
     esac
 done
 
+if [[ -z ${SortString} ]]; then
+    echo "A required parameter is missing"
+    echo "$usage" >&2
+    exit 2
+fi
+
 # Reserved for future use
 NumOfChar=`echo "${SortString}" | wc -m`
 
