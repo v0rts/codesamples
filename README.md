@@ -19,7 +19,7 @@ Parameter must be followed by <string>
 * <string> random ascii string  
 
 
-Example:  
+### Example:  
 ./revSort.sh -H ReverseMe
 
 # Alex
