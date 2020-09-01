@@ -22,11 +22,41 @@ Parameter must be followed by <string>
 ### Example:  
 ./revSort.sh -H ReverseMe
 
-# Alex
 
-Full disclosure.  The -e option using 'rev' is all mine.
+## palTest.sh
 
-The -H option using awk was constructed with a little help from Google and Stackoverflow  😉
-Contents
-====================
+### Usage:
+
+palTest.sh [-h] <string1> ---- identify palindromes  
+
+where:  
+
+* -h  show this help text  
+
+Parameter must be followed by <string>  
+
+* <string1> ascii string
+
+Example:  
+./palTest.sh  anna  
+
+
+
+## anaTest.sh 
+
+### Usage:   
+
+anaTest.sh [-h] <string1> <string2> ---- identify anagrams  
+
+where:  
+
+* -h  show this help text  
+
+Parameter must be followed by <string>  
+
+* <string1> ascii string  
+* <string2> ascii string  
+
+Example:  
+./anaTest.sh  tar rat  
 
