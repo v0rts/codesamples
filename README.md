@@ -27,3 +27,6 @@ Parameter must be followed by <string>
 Full disclosure.  The -e option using 'rev' is all mine.
 
 The -H option using awk was constructed with a little help from Google and Stackoverflow  😉
+Contents
+====================
+
