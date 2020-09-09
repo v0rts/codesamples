@@ -1,6 +1,8 @@
 Contents
 ====================
 
+Scripts that I've been asked to code during interviews.
+
 ## revSort.sh
 
 ### Usage:
